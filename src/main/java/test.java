@@ -1,5 +1,5 @@
 public class test{
     public void test1(){
-        System.out.println("???,在linux中关闭防火墙 systemctl stop firewalld");
+        System.out.println("111");
     }
 }
